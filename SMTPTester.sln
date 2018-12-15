@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMTPTester", "SMTPTester\SMTPTester.csproj", "{19A208CF-BE28-45A0-AF01-C93A518440B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMTPTester.FullFx", "SMTPTester.FullFx\SMTPTester.FullFx.csproj", "{8F4328E6-9301-43BD-AA78-050AA4A8E9EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{19A208CF-BE28-45A0-AF01-C93A518440B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{19A208CF-BE28-45A0-AF01-C93A518440B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{19A208CF-BE28-45A0-AF01-C93A518440B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{19A208CF-BE28-45A0-AF01-C93A518440B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F4328E6-9301-43BD-AA78-050AA4A8E9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4328E6-9301-43BD-AA78-050AA4A8E9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4328E6-9301-43BD-AA78-050AA4A8E9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4328E6-9301-43BD-AA78-050AA4A8E9EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
